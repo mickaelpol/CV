@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+      <title>Mon CV</title>
+      <meta charset="utf-8"/>
+    </head>
+    <body>
+        <div class = "page">
+             <div class = "info">
+             <ul>PAN rithisen</ul>
+             <ul>oshinokoe@ntymail.com</ul>
+             </div>
+             </div>
+       <div class = "section">
+             <h1>Expériences professionnelles</h1>
+             <div class = "sec-gauche">
+             <ul>
+             <li>2015: Rénovation de bâtiments (Japon/Hokkaido)</li>
+             <li>2015: Sécurité V.I.P, hôtellerie de luxe (Paris)</li>
+             <li>2014: Guide touristique, factotum, cuisinier (Guyane française)</li>
+             <li>2012-2014: Auto-entrepreneur</li>
+             <li>2012-2014: Agent de vidéosurveillance, agent de sécurité (Hérault)</li>
+             <li>2009-2012: Commis de cuisine (saisonnier, FRANCE entière)</li>
+             <li>2003-2008: Infanterie Parachutiste (Pamiers)</li>
+             </ul>
+             </div>
+             <div class = "sec-droite">
+             </div>
+             
+      </div>              
+      <div class = "section">
+             <h1>Formations</h1>
+             <div class = "sec-gauche">
+             <ul>
+             <li>2012: CQP agent de prévention et de sécurité</li>
+             <li>2009: Diplôme d’accès aux études universitaire</li>
+             <li>2000-2002: CAP-BEP Hôtellerie-restauration</li>
+             </ul>
+             </div>
+             <div class = "sec-droite">
+             </div>
+             
+      </div>     
+      <div class = "section">
+             <h1>Autres compétences</h1>
+             <div class = "sec-gauche">
+             <ul>
+             <li>Langues: Anglais (courant), Espagnol (Bon), Japonais (notions)</li>
+             <li>Maintenance serveurs</li>
+             <li>Sécurité informatique</li>
+             </ul>
+             </div>
+             <div class = "sec-droite">
+             </div>
+             
+      <!-- </div>     
+       <div class = "section">
+             <h1></h1>
+             <div class = "sec-gauche">
+             <ul>
+             <li></li>
+             <li></li>
+             <li></li>
+             </ul>
+             </div>
+             <div class = "sec-droite">
+             </div>   -->       
+      </div>     
+    </div>
+  </body>
+ </html>
